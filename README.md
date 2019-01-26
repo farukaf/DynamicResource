@@ -1,6 +1,5 @@
 # DynamicResource
 Dynamic Resource Sample for WPF
 
-This just a WPF project with a sample fore reference when dealing with theme like visual changes.
-
+This is just a WPF project with a sample for reference when dealing with theme like visual changes on styles.
 Setup on App.xaml your styles and change them on real time.
